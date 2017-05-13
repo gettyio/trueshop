@@ -1,6 +1,6 @@
 # trueshop
 
-> The first React PWA eCommerce platform with server side rendering and realtime Edit
+> The first open source React PWA eCommerce platform with server side rendering and realtime 
 
 [![Build Status](https://travis-ci.org/gettyio/trueshop.svg?branch=master)](https://travis-ci.org/gettyio/trueshop)
 [![Coverage Status](https://coveralls.io/repos/github/gettyio/trueshop/badge.svg?branch=master)](https://coveralls.io/github/gettyio/trueshop?branch=master)
